@@ -1,15 +1,15 @@
 {
-  "main.css": "/videojsplayer_test/static/css/main.d2854968.chunk.css",
-  "main.js": "/videojsplayer_test/static/js/main.e5844d64.chunk.js",
-  "main.js.map": "/videojsplayer_test/static/js/main.e5844d64.chunk.js.map",
+  "main.css": "/videojsplayer_test/static/css/main.7f9b8d63.chunk.css",
+  "main.js": "/videojsplayer_test/static/js/main.91a789ba.chunk.js",
+  "main.js.map": "/videojsplayer_test/static/js/main.91a789ba.chunk.js.map",
   "runtime~main.js": "/videojsplayer_test/static/js/runtime~main.a0f07bb0.js",
   "runtime~main.js.map": "/videojsplayer_test/static/js/runtime~main.a0f07bb0.js.map",
   "static/css/2.a5cc9dc6.chunk.css": "/videojsplayer_test/static/css/2.a5cc9dc6.chunk.css",
   "static/js/2.10aba8b7.chunk.js": "/videojsplayer_test/static/js/2.10aba8b7.chunk.js",
   "static/js/2.10aba8b7.chunk.js.map": "/videojsplayer_test/static/js/2.10aba8b7.chunk.js.map",
   "index.html": "/videojsplayer_test/index.html",
-  "precache-manifest.42673585ea03a812fbc82044f4147cf0.js": "/videojsplayer_test/precache-manifest.42673585ea03a812fbc82044f4147cf0.js",
+  "precache-manifest.a787c12507905e490bae59558326baee.js": "/videojsplayer_test/precache-manifest.a787c12507905e490bae59558326baee.js",
   "service-worker.js": "/videojsplayer_test/service-worker.js",
   "static/css/2.a5cc9dc6.chunk.css.map": "/videojsplayer_test/static/css/2.a5cc9dc6.chunk.css.map",
-  "static/css/main.d2854968.chunk.css.map": "/videojsplayer_test/static/css/main.d2854968.chunk.css.map"
+  "static/css/main.7f9b8d63.chunk.css.map": "/videojsplayer_test/static/css/main.7f9b8d63.chunk.css.map"
 }
